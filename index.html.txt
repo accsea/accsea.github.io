@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apostolic Catholic Church - Southeast Asia Mission</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.8;
+            color: #2c3e50;
+            margin: 0;
+            padding: 0;
+            background-color: #fcfbfa;
+        }
+        .header {
+            text-align: center;
+            padding: 60px 20px;
+            background-color: #1a252f;
+            color: #ffffff;
+        }
+        .header h1 {
+            font-size: 2.2em;
+            margin: 0;
+            letter-spacing: 2px;
+        }
+        .header h2 {
+            font-size: 1.4em;
+            font-weight: 300;
+            color: #f1c40f;
+            margin: 10px 0 0 0;
+        }
+        .divider {
+            text-align: center;
+            margin: 30px 0;
+            font-size: 24px;
+            color: #bdc3c7;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .section-title {
+            font-size: 1.6em;
+            color: #1a252f;
+            border-bottom: 1px solid #ecf0f1;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        .ministry-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .ministry-card {
+            background: #ffffff;
+            padding: 20px;
+            border-left: 4px solid #1a252f;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            font-size: 0.9em;
+            color: #7f8c8d;
+            border-top: 1px solid #ecf0f1;
+            margin-top: 60px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>APOSTOLIC CATHOLIC CHURCH (ACC)</h1>
+        <h2>SOUTHEAST ASIA MISSION</h2>
+    </div>
+
+    <div class="container">
+        <div class="divider">✥ 🕁 ✥</div>
+        
+        <p style="text-align: center; font-style: italic; font-size: 1.1em;">
+            Welcome in the Name of the Father, and of the Son, and of the Holy Spirit.
+        </p>
+
+        <div class="section-title">Our Sacred Mission</div>
+        <p>
+            Under the sacred mandate and Apostolic Succession of His Eminence, <strong>Archbishop Ronald Saunders</strong> (Spain), the ACC Southeast Asia Mission is officially established to shepherd faithful communities, conduct holy prayers, and spread Christ's compassionate love across the region.
+        </p>
+        <p>
+            Managed by Lay-Reader <strong>Joseph Tu Quoc Huy</strong>, we are dedicated to fostering spiritual growth, theological depth, and independent, self-supporting ministries serving Vietnam and neighboring nations in Southeast Asia.
+        </p>
+
+        <div class="section-title">Authorized Ministries</div>
+        <div class="ministry-grid">
+            <div class="ministry-card">
+                <strong>🕁 Holy Baptism</strong><br>
+                Administering the sacrament of new life for souls.
+            </div>
+            <div class="ministry-card">
+                <strong>🕁 Liturgical Prayers</strong><br>
+                Conducting official Morning and Evening public prayers.
+            </div>
+            <div class="ministry-card">
+                <strong>🕁 Bible Study Guides</strong><br>
+                Nurturing faithful communities through Holy Scripture.
+            </div>
+            <div class="ministry-card">
+                <strong>🕁 Pastoral Care & Funerals</strong><br>
+                Visiting the sick and conducting respectful burial services.
+            </div>
+        </div>
+
+        <div class="section-title">Contact & Communication</div>
+        <p>
+            For spiritual guidance, theological inquiries, or joining our local faith community, you may reach out directly to the Office of the Lay-Reader:
+        </p>
+        <ul>
+            <li><strong>Ecclesiastical Officer:</strong> Lay-Reader Joseph Tu Quoc Huy</li>
+            <li><strong>Official Communication:</strong> Zalo 0933250369</li>
+        </ul>
+
+        <div class="footer">
+            &copy; 2026 Apostolic Catholic Church - Southeast Asia Mission.<br>
+            Under the Apostolic Authority of Archbishop Ronald Saunders (Spain).
+        </div>
+    </div>
+
+</body>
+</html>
