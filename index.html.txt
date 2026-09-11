@@ -114,7 +114,7 @@
 
         <div class="section-title">Contact & Communication</div>
         <p>
-            For spiritual guidance, theological inquiries, or joining our local faith community, you may reach out directly to the Office of the Lay-Reader:
+            For spiritual guidance, theological inquiries, or joining our regional faith community, you may reach out directly to the Office of the Lay-Reader:
         </p>
         <ul>
             <li><strong>Ecclesiastical Officer:</strong> Lay-Reader Joseph Tu Quoc Huy</li>
